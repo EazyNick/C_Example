@@ -1,4 +1,4 @@
-// 반복제어문
+// 구구단을 7단부터 9단까지 세 줄로 출력하는 프로그램
 
 #include <stdio.h>
 #include <conio.h>
